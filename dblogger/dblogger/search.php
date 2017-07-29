@@ -8,6 +8,7 @@
  */
 
 get_header(); ?>
+<!-- Dummy text -->
 <section id="Blog-home">
   <div class="container">
     <div class="row"> 
